@@ -1,0 +1,7 @@
+מעבד קובץ: tests/valid2/valid2.as
+[Preprocessor] נוצר tests/valid2/valid2.am בהצלחה! נמצאו 0 מאקרואים.
+=== טבלת סמלים ===
+MAIN	101	code
+MATRIX	101	code
+[Assembler] נוצרו קבצי פלט עם IC=5 DC=1
+✅ קובץ tests/valid2/valid2 טופל בהצלחה!

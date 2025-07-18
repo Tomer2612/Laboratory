@@ -1,0 +1,7 @@
+מעבד קובץ: tests/error1/error1.as
+שגיאה בשורה 2: שורה ארוכה מדי (>80 תווים)
+[Preprocessor] נוצר tests/error1/error1.am בהצלחה! נמצאו 0 מאקרואים.
+=== טבלת סמלים ===
+MAIN	100	code
+[Assembler] נוצרו קבצי פלט עם IC=4 DC=0
+✅ קובץ tests/error1/error1 טופל בהצלחה!

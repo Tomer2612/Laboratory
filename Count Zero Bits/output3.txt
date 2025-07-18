@@ -1,0 +1,2 @@
+Enter a positive whole decimal base number: You entered: 1
+Number of zero bits in 1: 31

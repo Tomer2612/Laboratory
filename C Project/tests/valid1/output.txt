@@ -1,0 +1,6 @@
+מעבד קובץ: tests/valid1/valid1.as
+[Preprocessor] נוצר tests/valid1/valid1.am בהצלחה! נמצאו 0 מאקרואים.
+=== טבלת סמלים ===
+MAIN	100	code
+[Assembler] נוצרו קבצי פלט עם IC=6 DC=0
+✅ קובץ tests/valid1/valid1 טופל בהצלחה!

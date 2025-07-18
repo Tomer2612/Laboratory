@@ -1,0 +1,93 @@
+
+Enter command: You entered: read_mat A_MAT, 5, 6.253, -7, -200.5, 23
+
+Enter command: You entered: read_mat B_MAT, 1, 2, 3, 4, 5, 6, 7, 8
+
+Enter command: You entered: print_mat A_MAT
+   5.00    6.25   -7.00 -200.50 
+  23.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: print_mat B_MAT
+   1.00    2.00    3.00    4.00 
+   5.00    6.00    7.00    8.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: print_mat A_MAT
+   5.00    6.25   -7.00 -200.50 
+  23.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: add_mat C_MAT, A_MAT, B_MAT
+
+Enter command: You entered: print_mat C_MAT
+   6.00    8.25   -4.00 -196.50 
+  28.00    6.00    7.00    8.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: sub_mat D_MAT, A_MAT, C_MAT
+
+Enter command: You entered: print_mat D_MAT
+  -1.00   -2.00   -3.00   -4.00 
+  -5.00   -6.00   -7.00   -8.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: mul_mat F_MAT, B_MAT, A_MAT
+
+Enter command: You entered: print_mat F_MAT
+  51.00    6.25   -7.00 -200.50 
+ 163.00   31.27  -35.00 -1002.50 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: mul_scalar A_MAT, 2.5, B_MAT
+
+Enter command: You entered: print_mat B_MAT
+   1.00    2.00    3.00    4.00 
+   5.00    6.00    7.00    8.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: trans_mat E_MAT, A_MAT
+
+Enter command: You entered: print_mat E_MAT
+   2.50   12.50    0.00    0.00 
+   5.00   15.00    0.00    0.00 
+   7.50   17.50    0.00    0.00 
+  10.00   20.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: print_mat A_MAT
+   2.50    5.00    7.50   10.00 
+  12.50   15.00   17.50   20.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: print_mat B_MAT
+   1.00    2.00    3.00    4.00 
+   5.00    6.00    7.00    8.00 
+   0.00    0.00    0.00    0.00 
+   0.00    0.00    0.00    0.00 
+
+Enter command: You entered: 
+
+Enter command: You entered: stop
+Program terminated.

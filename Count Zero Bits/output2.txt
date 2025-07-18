@@ -1,0 +1,2 @@
+Enter a positive whole decimal base number: You entered: 255
+Number of zero bits in 255: 24

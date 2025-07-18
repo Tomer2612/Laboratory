@@ -1,0 +1,6 @@
+מעבד קובץ: tests/error2/error2.as
+[Preprocessor] נוצר tests/error2/error2.am בהצלחה! נמצאו 0 מאקרואים.
+=== טבלת סמלים ===
+OO_LONG_TO_BE_VALID	101	code
+[Assembler] נוצרו קבצי פלט עם IC=3 DC=0
+✅ קובץ tests/error2/error2 טופל בהצלחה!

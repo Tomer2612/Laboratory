@@ -1,0 +1,4 @@
+; error2.as - שם תווית ארוך מדי לבדיקה
+
+OO_LONG_TO_BE_VALID:stop
+

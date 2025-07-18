@@ -1,0 +1,6 @@
+מעבד קובץ: tests/valid4/valid4.as
+[Preprocessor] נוצר tests/valid4/valid4.am בהצלחה! נמצאו 1 מאקרואים.
+=== טבלת סמלים ===
+MAIN	102	code
+[Assembler] נוצרו קבצי פלט עם IC=10 DC=0
+✅ קובץ tests/valid4/valid4 טופל בהצלחה!

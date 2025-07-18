@@ -1,0 +1,27 @@
+read_mat A_MAT, 5, 6.253, -7, -200.5, 23
+read_mat B_MAT, 1, 2, 3, 4, 5, 6, 7, 8
+print_mat A_MAT
+print_mat B_MAT
+
+print_mat A_MAT
+
+add_mat C_MAT, A_MAT, B_MAT
+print_mat C_MAT
+
+sub_mat D_MAT, A_MAT, C_MAT
+print_mat D_MAT
+
+mul_mat F_MAT, B_MAT, A_MAT
+print_mat F_MAT
+
+mul_scalar A_MAT, 2.5, B_MAT
+print_mat B_MAT
+
+trans_mat E_MAT, A_MAT
+print_mat E_MAT
+
+print_mat A_MAT
+print_mat B_MAT
+
+stop
+

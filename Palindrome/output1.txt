@@ -1,0 +1,2 @@
+Enter a string: You entered: a b c b a
+1

@@ -1,0 +1,2 @@
+Enter a string: You entered: never odd or even
+1
